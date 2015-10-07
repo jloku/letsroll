@@ -36,7 +36,7 @@ while(True):
     dst2 = cv2.convertScaleAbs(gray_sob)
 
     # Display the resulting frame
-    cv2.imshow('Origin',frame)
+    cv2.imshow('Original',frame)
     cv2.imshow('Laplacian',dst)
     cv2.imshow('Sobel',dst2)
 
