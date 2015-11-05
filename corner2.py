@@ -18,3 +18,5 @@ for i in xrange(6):
     plt.xticks([]),plt.yticks([])
 
 plt.show()
+
+##Of Cause!!!
